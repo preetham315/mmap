@@ -1,0 +1,10 @@
+# generated mind maps
+.mindmap/
+
+# OS / editor cruft
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
+.venv/
